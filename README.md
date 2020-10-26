@@ -2,11 +2,11 @@
 
 This is a change log of my own personal development updates. Some entries may be related to :computer: coding projects, some to :school_satchel: classes and conferences I'm virtually attending, some :books: books I'm reading and maybe a glimpse of some :art: art-related projects that help me unwind. My goal is to help create visibility around my current professional and personal growth, and form better habits through accountability. I came across this idea as of early October so unfortunately, it is not a full description of what I have been working on.
 
-Credit for this idea goes to a network friend, David Walton @djwalto. Thanks for sharing this idea!
-
-## October 2020
+Credit for this idea goes to a network friend, David Walton @djwalto . Thanks for sharing this idea!
 
 ---
+
+## October 2020
 
 ### Week of Mon, 10/26:
 
@@ -26,13 +26,13 @@ Credit for this idea goes to a network friend, David Walton @djwalto. Thanks for
 
 - :clap: Complete: Coded a contact form in React using Hooks, Axios and Nodemailer to send to my [gmail account](https://github.com/jennmez/contact-me-form)
 
-## September 2020
-
 ---
+
+## September 2020
 
 ### Week of Mon, 9/28
 
-:art: Started a special branding project I'm working on for a business; not able to disclose more information at this time.
+- :art: Started a special branding project I'm working on for a business; not able to disclose more information at this time.
 
 ### Week of Mon, 9/21
 
