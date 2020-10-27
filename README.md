@@ -12,6 +12,7 @@ Credit for this idea goes to a network friend, David Walton @djwalto . Thanks fo
 
 - :computer: In Progess: Small React project to brush up on using class components and state changes. Need to add in error handling, loading progress and duplicate users to complete.
 - :computer: Tandem Apprencticeship coding application. Making a trivia game!
+- :clap: Complete: Did a short tutorial on AdobeXD and made a low fidelty prototype!
 
 ### Week of Mon, 10/19:
 
@@ -32,7 +33,8 @@ Credit for this idea goes to a network friend, David Walton @djwalto . Thanks fo
 
 ### Week of Mon, 9/28
 
-- :art: Started a special branding project I'm working on for a business; not able to disclose more information at this time.
+- :computer: In Progress: Playing around with Adobe XD & designing wireframes
+- :art: In Progress: Started a special branding project I'm working on for a business; not able to disclose more information at this time.
 
 ### Week of Mon, 9/21
 
