@@ -6,12 +6,22 @@ Credit for this idea goes to a network friend, David Walton @djwalto . Thanks fo
 
 ---
 
+## November 2020
+
+### Week of Mon, 11/2:
+
+- :computer: In Progress: Building a full stack application with products that users can like
+- :school-bag: In Progress: Freshing up on useContext, useReducer & useMemo React Hooks
+- :art: Received my first Etsy review! It was 5 stars!
+
+---
+
 ## October 2020
 
 ### Week of Mon, 10/26:
 
 - :computer: In Progess: Small React project to brush up on using class components and state changes. Need to add in error handling, loading progress and duplicate users to complete.
-- :computer: Tandem Apprencticeship coding application. Making a trivia game!
+- :clap: Complete: [Impress Me Human](https://impressgrump.herokuapp.com/) a 10 question trivia game using React, Express, Node.js. Use your wits to impress the toughest of critics, Grumpy Cat :cat:
 - :clap: Complete: Did a short tutorial on AdobeXD and made a low fidelty prototype!
 - :school_satchel: In Progress: Test-Driven Development in React [workshop](https://app.pluralsight.com/library/courses/test-driven-development-react/table-of-contents). Trying to further solidify testing with Jest in a React application. It's difficult, but hoping to walk away with the ability to implement in my trivia game.
 
