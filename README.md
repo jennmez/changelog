@@ -10,8 +10,8 @@ Credit for this idea goes to a network friend, David Walton @djwalto . Thanks fo
 
 ### Week of Mon, 11/2:
 
-- :computer: In Progress: Building a full stack application with products that users can like
-- :school-bag: In Progress: Freshing up on useContext, useReducer & useMemo React Hooks
+- :computer: In Progress: Building a full stack application with products that users can like. Finished requirements, now I have to clean it up!
+- :school_satchel: In Progress: Freshing up on useContext, useReducer & useMemo React Hooks
 - :art: Received my first Etsy review! It was 5 stars!
 
 ---
