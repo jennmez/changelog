@@ -8,6 +8,10 @@ Credit for this idea goes to a network friend, David Walton @djwalto . Thanks fo
 
 ## November 2020
 
+### Week of Mon, 11/9:
+
+- :art: In Progress: Starting the week off with label designs for a client.
+
 ### Week of Mon, 11/2:
 
 - :computer: In Progress: Building a full stack application with products that users can like. Finished requirements, now I have to clean it up!
