@@ -11,6 +11,7 @@ Credit for this idea goes to a network friend, David Walton @djwalto . Thanks fo
 ### Week of Mon, 11/9:
 
 - :art: In Progress: Starting the week off with label designs for a client.
+- :school_satchel: In Progress: Starting [p5 tutorial](https://www.youtube.com/watch?v=yPWkPOfnGsw) for fun
 
 ### Week of Mon, 11/2:
 
