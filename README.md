@@ -8,6 +8,9 @@ Credit for this idea goes to a network friend, David Walton @djwalto . Thanks fo
 
 ## November 2020
 
+### Week of Mon, 11/23: 
+- :coding: :celebrate: I accepted a Junior Software Engineer position with Parkonect! I'm so grateful for the journey I've undertaken and look forward to a future in coding!
+
 ### Week of Mon, 11/9:
 
 - :art: In Progress: Starting the week off with label designs for a client.
