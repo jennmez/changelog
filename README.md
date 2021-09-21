@@ -4,12 +4,17 @@ This is a change log of my own personal development updates. Some entries may be
 
 Credit for this idea goes to a network friend, David Walton @djwalto . Thanks for sharing this idea!
 
+## December 2020
+
+### Week of Mon, 12/7: 
+
+- :computer: Started my new job with Parkonect! Learning the ropes of ASP.NET, C#, VB.Net and TypeScript.
 ---
 
 ## November 2020
 
 ### Week of Mon, 11/23: 
-- :coding: :celebrate: I accepted a Junior Software Engineer position with Parkonect! I'm so grateful for the journey I've undertaken and look forward to a future in coding!
+- :computer: :clap: I accepted a Junior Software Engineer position with Parkonect! I'm so grateful for the journey I've undertaken and look forward to a future in coding!
 
 ### Week of Mon, 11/9:
 
